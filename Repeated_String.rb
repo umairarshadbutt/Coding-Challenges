@@ -1,4 +1,4 @@
-
+#https://www.hackerrank.com/contests/microverse-coding-challenges/challenges/repeated-string
 
 def repeatedString(s, n)
     # s is a length of string size
